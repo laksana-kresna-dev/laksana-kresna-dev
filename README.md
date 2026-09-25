@@ -1,4 +1,4 @@
-# Hi, I'm Kresna Laksana 👋
+# Hi, I'm Kresna 👋
 
 **Software Engineer · Linux Enthusiast · Automation Lover · Arch Linux User**
 
