@@ -1,23 +1,26 @@
 # Hi, I'm Kresna 👋
 
-**Software Engineer · Linux Enthusiast · Automation Lover**
+**Software Engineer · Automation Enthusiast · Linux User**
 
-I'm a software engineer who enjoys building things, exploring Linux, and automating repetitive work.
+I build software, automate repetitive workflows, and enjoy solving problems with simple and practical solutions.
 
-🐧 **Linux since 2014** — started with Debian/Ubuntu-based distributions.
-🏹 **Arch Linux user since 2017** — my daily driver ever since.
-⚙️ **Automation enthusiast** — from Bash scripts and GitHub Actions to anything that makes work simpler, faster, and more reliable.
+🐧 **Linux since 2014** · 🏹 **Arch Linux user since 2017**
+⚙️ **Automation with Bash, GitHub Actions, and whatever gets the job done.**
 
-> **If I do it repeatedly, I automate it.**
+### What I Care About
 
-### 🛠️ Interests
+* Writing maintainable and practical software
+* Automating repetitive tasks and workflows
+* Linux, tooling, and developer experience
+* CI/CD and engineering productivity
+* Learning how systems work and making them better
 
-* Software Engineering
-* Linux & Open Source
-* Automation & Scripting
-* GitHub Actions & CI/CD
-* Developer Tools & Workflows
+> **If a task is repetitive, I look for a way to automate it.**
 
-> *Build less repetitive work. Spend more time solving interesting problems.*
+### 🔨 What I'm Building
 
-Thanks for stopping by! 🚀
+Check out my repositories below — I prefer showing what I can build over listing what I know.
+
+---
+
+🚀 **Open to interesting engineering problems and opportunities.**
